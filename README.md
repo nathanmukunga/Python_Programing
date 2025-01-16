@@ -1,1 +1,18 @@
 # PROGRAMMING-FOR-ARTIFICIAL-INTELLIGENCE
+- Function : Lecture 10
+- Class : Lecture 11
+- Lambda (MAP) Function : Lecture 12
+- Try Except : Lecture 17
+- Array : Lecture 5
+- Random Nympy : Lecture 7
+- Matrice Operator : Lecture 9
+- Mat Plot : Lecture 6
+- Data Classes : Lecture 16
+- Copy Decopy : Lecture 8
+- Tuple : Lecture 13
+- Set : Lecture 15
+- Dictionary : Lecture 2
+- List : Lecture 15
+- Condition : Lecture 3
+- Loop : Lecture 4
+- Variable : Lecture 1
