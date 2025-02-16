@@ -1,4 +1,4 @@
-# PROGRAMMING-FOR-ARTIFICIAL-INTELLIGENCE
+# Python_Programing 
 - Function : Lecture 10
 - Class : Lecture 11
 - Lambda (MAP) Function : Lecture 12
